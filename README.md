@@ -7,9 +7,9 @@
 
 
 ## ScreenShots
-![Demo](https://github.com/azatgoktas/AGAlertView/blob/master/ScreenShots/1.gif)
-![Demo](https://github.com/azatgoktas/AGAlertView/blob/master/ScreenShots/2.gif)
-![Demo](https://github.com/azatgoktas/AGAlertView/blob/master/ScreenShots/3.gif)
+![Demo](https://github.com/azatgoktas/AGAlertView/blob/master/ScreenShots/1.gif) \
+![Demo](https://github.com/azatgoktas/AGAlertView/blob/master/ScreenShots/2.gif) \
+![Demo](https://github.com/azatgoktas/AGAlertView/blob/master/ScreenShots/3.gif) \
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
