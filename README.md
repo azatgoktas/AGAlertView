@@ -5,6 +5,11 @@
 [![License](https://img.shields.io/cocoapods/l/AGAlertView.svg?style=flat)](https://cocoapods.org/pods/AGAlertView)
 [![Platform](https://img.shields.io/cocoapods/p/AGAlertView.svg?style=flat)](https://cocoapods.org/pods/AGAlertView)
 
+
+## ScreenShots
+![Demo](https://github.com/azatgoktas/AGAlertView/blob/master/ScreenShots/1.gif)
+![Demo](https://github.com/azatgoktas/AGAlertView/blob/master/ScreenShots/2.gif)
+![Demo](https://github.com/azatgoktas/AGAlertView/blob/master/ScreenShots/3.gif)
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
