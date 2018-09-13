@@ -7,9 +7,13 @@
 
 
 ## ScreenShots
+#### Single Button Default Image
 ![Demo](https://github.com/azatgoktas/AGAlertView/blob/master/ScreenShots/1.gif) \
+#### Two Button Custom Image
 ![Demo](https://github.com/azatgoktas/AGAlertView/blob/master/ScreenShots/2.gif) \
-![Demo](https://github.com/azatgoktas/AGAlertView/blob/master/ScreenShots/3.gif) \
+#### Two Button With Cancel 
+![Demo](https://github.com/azatgoktas/AGAlertView/blob/master/ScreenShots/3.gif) 
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
