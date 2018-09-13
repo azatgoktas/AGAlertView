@@ -10,6 +10,8 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+- iOS 9 or newer
+
 
 ## Installation
 
@@ -22,8 +24,34 @@ pod 'AGAlertView'
 
 ## Author
 
-azattgoktas@gmail.com, azattgoktas@gmail.com
+Azat Goktas, azattgoktas@gmail.com
 
+## How To Use
+Import The AGAlertView
+
+```swift
+import AGAlertView
+```
+Adding Button.
+
+```swift
+let button1 = AGButton(frame: .zero, title: "Button1")
+AGAlert().showAlert(title: "Hey Yo", subtitle: "Thats it", buttons: button1)
+```
+Adding button and custom image. You can simply add action to your button.
+
+```swift
+let button1 = AGButton(frame: .zero, title: "Button1")
+let button2 = AGButton(title: "Button2", selector: #selector(buttonTapped), target: self)
+AGAlert().showAlert(title: "Hey Yo", subtitle: "Thats it", buttons: button1,button2, image: UIImage(named: "frog"))
+```
+Adding button with type of cancel.
+
+```swift
+let button1 = AGButton(frame: .zero, title: "Button1")
+let button2 = AGButton(title: "Cancel",buttonStyle: .cancel)
+AGAlert().showAlert(title: "Hey Yo", subtitle: "Thats it", buttons: button2,button1)
+```
 ## License
 
 AGAlertView is available under the MIT license. See the LICENSE file for more info.

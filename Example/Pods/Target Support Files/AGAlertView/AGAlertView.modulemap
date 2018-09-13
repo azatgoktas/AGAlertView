@@ -1,0 +1,6 @@
+framework module AGAlertView {
+  umbrella header "AGAlertView-umbrella.h"
+
+  export *
+  module * { export * }
+}

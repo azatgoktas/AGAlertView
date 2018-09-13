@@ -1,0 +1,16 @@
+PODS:
+  - AGAlertView (0.1.0)
+
+DEPENDENCIES:
+  - AGAlertView (from `../`)
+
+EXTERNAL SOURCES:
+  AGAlertView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AGAlertView: 617981682d4301325ed688a4e80bb823a04a33d5
+
+PODFILE CHECKSUM: 7b464d9cd594b20456918dcdb21fac87fde10ea8
+
+COCOAPODS: 1.5.3

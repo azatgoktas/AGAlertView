@@ -1,0 +1,28 @@
+{
+  "name": "AGAlertView",
+  "version": "0.1.0",
+  "summary": "A short description of AGAlertView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/azattgoktas@gmail.com/AGAlertView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "azattgoktas@gmail.com": "azattgoktas@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/azattgoktas@gmail.com/AGAlertView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "AGAlertView/Classes/**/*",
+  "resources": "AGAlertView/Assets/*.xcassets",
+  "resource_bundles": {
+    "AGAlertView": [
+      "AGAlertView/Assets/*.png"
+    ]
+  }
+}
