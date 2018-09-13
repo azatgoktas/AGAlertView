@@ -33,10 +33,6 @@ Pod::Spec.new do |s|
   s.source_files = 'AGAlertView/Classes/**/*'
   s.resources = 'AGAlertView/Assets/*.xcassets'
 
-  
-   s.resource_bundles = {
-     'AGAlertView' => ['AGAlertView/Assets/*.png']
-   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'UIKit'
